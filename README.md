@@ -13,7 +13,7 @@ Follow commands below to perform detection:
 
 - Image_Detection:
 ```
-python detection/image_detection.py{image_path} --show
+python detection/image_detection.py {image_path} --show
 ```	
 - Video_Detection:
 ```
